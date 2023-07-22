@@ -15,6 +15,6 @@ This recommender system helps us to recommend movies on the basis of genre, cast
 
 
 ## Screenshots
-![Pirates of Carribean recommendation ](https://github.com/aasmigill/Movie-recommender-system/assets/90896920/2d9d634c-f554-43aa-bb21-2ce3d6d2b77e)
 
-![Spectre recommendation ](https://github.com/aasmigill/Movie-recommender-system/assets/90896920/9b2aeebf-819a-45a8-beec-87684752ab22)
+![WhatsApp Image 2023-07-20 at 8 10 51 PM](https://github.com/aasmigill/Movie-recommender-system/assets/90896920/828cdd03-8641-4822-9a5b-524cc8d5187f)
+![WhatsApp Image 2023-07-20 at 8 11 31 PM](https://github.com/aasmigill/Movie-recommender-system/assets/90896920/edce2b1a-8ece-40c7-b5e4-075766efe821)
